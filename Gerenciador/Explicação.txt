@@ -1,0 +1,7 @@
+Sistema Servlet desenvolvido pelo curso alura
+
+- para usar é só subilo pelo terminal 
+java -jar start.jar
+
+- e atras de localhost:8080/gerenciador/entrada
+http://localhost:8080/gerenciador/entrada?acao=ListaEmpresas
